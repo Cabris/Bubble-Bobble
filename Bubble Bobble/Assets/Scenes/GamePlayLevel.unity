@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d4cdd3712b495448a54e767136ca62b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BubbleTypes: 0000000001000000
+  BubbleTypes: 000000000100000002000000
 --- !u!4 &67185591
 Transform:
   m_ObjectHideFlags: 0
@@ -890,7 +890,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _generatePattern: {fileID: 67185590}
-  generateSize: {x: 8, y: 10}
+  generateSize: {x: 8, y: 5}
   MapSize: {x: 8, y: 15}
   _topLeftPlaceHolder: {fileID: 862272826}
   _falldownSize: 0.5
